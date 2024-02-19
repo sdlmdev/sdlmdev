@@ -57,9 +57,7 @@
 
 ### Contacts:
 
-<a href="mailto:Sdlmdev@yandex.ru">
-  <img src="./icons/Mailbox.svg" alt="sdlmdev" title="Sdlmdev@yandex.ru">
-</a>&nbsp;&nbsp;
-<a href="https://t.me/sdlmdev">
-  <img src="./icons/telegram.svg" alt="sdlmdev" title="https://t.me/sdlmdev">
-</a>
+<div>
+  <a href="mailto:Sdlmdev@yandex.ru" style="text-decoration: none;"><img src="./icons/Mailbox.svg" alt="sdlmdev" title="Sdlmdev@yandex.ru"></a>&nbsp;&nbsp;
+  <a href="https://t.me/sdlmdev"><img src="./icons/Telegram.svg" alt="sdlmdev" title="https://t.me/sdlmdev"></a>
+</div>
