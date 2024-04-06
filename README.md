@@ -38,7 +38,7 @@
   <tr>
     <td width="450">
       <a href="https://leetcode.com/sdlmdev">
-        <img src="https://leetcard.jacoblin.cool/sdlmdev?ext=heatmap" alt="Leetcode stats" />
+        <img src="https://leetcard.jacoblin.cool/sdlmdev?ext=heatmap&theme=dark" alt="Leetcode stats" />
       </a>
       <div><br></div>
       <a href="https://www.codewars.com/users/sdlmdev">
