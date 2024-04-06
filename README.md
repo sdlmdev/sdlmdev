@@ -3,7 +3,8 @@
 <div align="center">
   <img src="./icons/html.svg" title="HTML" alt="HTML" />&nbsp;
   <img src="./icons/css.svg" title="CSS" alt="CSS" />&nbsp;
-  <img src="./icons/JavaScript.svg" title="JavaScript" alt="JavaScript" />&nbsp; 
+  <img src="./icons/JavaScript.svg" title="JavaScript" alt="JavaScript" />&nbsp;
+  <img src="./icons/TypeScript.svg" title="TypeScript" alt="TypeScript" />&nbsp;
   <img src="./icons/react.svg" title="React" alt="React" />&nbsp;
   <img src="./icons/Node.svg" title="Node.js" alt="Node.js" />&nbsp;
   <img src="./icons/express.svg" title="Express" alt="Express" />&nbsp;
