@@ -37,9 +37,8 @@
   </tr>
   <tr>
     <td width="450">
-      <img src="./icons/leetcode.svg" title="leetcode" alt="leetcode" />
       <a href="https://leetcode.com/sdlmdev">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=sdlmdev&theme=dark" alt="Leetcode stats" />
+        <img src="https://leetcard.jacoblin.cool/sdlmdev?ext=heatmap" alt="Leetcode stats" />
       </a>
       <div><br></div>
       <a href="https://www.codewars.com/users/sdlmdev">
@@ -58,9 +57,7 @@
 
 ### Contacts:
 
-<a href="mailto:Sdlmdev@yandex.ru">
-  <img src="./icons/Mailbox.svg" alt="sdlmdev" title="Sdlmdev@yandex.ru">
-</a>&nbsp;&nbsp;
-<a href="https://t.me/sdlmdev">
-  <img src="./icons/telegram.svg" alt="sdlmdev" title="https://t.me/sdlmdev">
-</a>
+<div>
+  <a href="mailto:Sdlmdev@yandex.ru" style="text-decoration: none;"><img src="./icons/Mailbox.svg" alt="sdlmdev" title="Sdlmdev@yandex.ru"></a>&nbsp;&nbsp;
+  <a href="https://t.me/sdlmdev"><img src="./icons/Telegram.svg" alt="sdlmdev" title="https://t.me/sdlmdev"></a>
+</div>
