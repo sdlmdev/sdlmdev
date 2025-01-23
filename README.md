@@ -9,7 +9,6 @@
   <img src="./icons/Node.svg" title="Node.js" alt="Node.js" />&nbsp;
   <img src="./icons/express.svg" title="Express" alt="Express" />&nbsp;
   <img src="./icons/MongoDB.svg" title="Mongodb" alt="Mongodb" />&nbsp;
-  <img src="./icons/Mongoose.svg" title="Mongoose" alt="Mongoose" />&nbsp;
   <img src="./icons/nginx.svg" title="Nginx" alt="Nginx" />&nbsp;
   <img src="./icons/jest.svg" title="Jest" alt="Jest" />&nbsp;
   <img src="./icons/Webpack.svg" title="Webpack" alt="Webpack" />&nbsp;
@@ -26,7 +25,7 @@
   <tr>
     <td width="450">
       <a href="https://github.com/sdlmdev">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=sdlmdev&theme=dark&background=000000" alt="Github stats" />
+        <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=sdlmdev&theme=dark&background=000000" alt="Github stats" />
       </a>
     </td>
     <td width="450">
